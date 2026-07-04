@@ -1,0 +1,26 @@
+{
+  "id": "tool-03",
+  "day": 3,
+  "title": "AI API Gateway",
+  "slug": "ai-api-gateway",
+  "repoFolder": "tool-03-ai-api-gateway",
+  "description": "A lightweight inference proxy that routes AI requests through a gateway layer with retries, fallback, caching, request logging, latency tracking, and cost estimates.",
+  "status": "in-progress",
+  "skills": [
+    "API design",
+    "Provider abstraction",
+    "Retry logic",
+    "Caching",
+    "Request logging",
+    "Latency tracking",
+    "Fallback handling",
+    "Cost tracking",
+    "Dashboard UI"
+  ],
+  "category": "AI Infrastructure / Backend Engineering / Observability",
+  "liveUrl": "",
+  "githubUrl": "",
+  "reelUrl": "",
+  "writeupUrl": "",
+  "lesson": "Production AI apps need a gateway layer for routing, observability, caching, fallback, and cost awareness instead of calling model providers directly."
+}
