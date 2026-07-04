@@ -88,7 +88,6 @@ curl http://localhost:3000/api/ai-gateway/pricing?refresh=true
 ## Run locally
 
 ```bash
-cd tool-03-ai-api-gateway
 npm install
 npm run dev
 ```
@@ -148,11 +147,11 @@ failure in the response.
 - Cost is estimated from token counts and provider pricing records.
 - Provider pricing pages can change format. Scraping is best-effort and should
   be verified before using the data for billing.
-- No authentication, billing, rate limits, persistence, or multi-tenant controls
-  yet.
+- This release does not include authentication, billing, rate limits,
+  persistence, or multi-tenant controls.
 - The provider interface is small on purpose so other providers can be added
   without rewriting the route or UI.
 
-## Status
+## Links
 
-in-progress
+- Repository: https://github.com/hatimshahera/ai-api-gateway
