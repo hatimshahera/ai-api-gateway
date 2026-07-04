@@ -19,7 +19,7 @@
   ],
   "category": "AI Infrastructure / Backend Engineering / Observability",
   "liveUrl": "",
-  "githubUrl": "",
+  "githubUrl": "https://github.com/hatimshahera/ai-api-gateway",
   "reelUrl": "",
   "writeupUrl": "",
   "lesson": "Production AI apps need a gateway layer for routing, observability, caching, fallback, and cost awareness instead of calling model providers directly."
