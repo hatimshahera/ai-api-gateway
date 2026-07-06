@@ -155,3 +155,7 @@ failure in the response.
 ## Links
 
 - Repository: https://github.com/hatimshahera/ai-api-gateway
+
+## Support Me
+
+If this helped you, you can support my work here: [buymeacoffee.com/hatimshahera](https://buymeacoffee.com/hatimshahera)
